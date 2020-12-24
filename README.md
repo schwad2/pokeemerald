@@ -34,3 +34,33 @@ Other disassembly and/or decompilation projects:
 ## Contacts
 
 You can find us on [Discord](https://discord.gg/d5dubZ3) and [IRC](https://kiwiirc.com/client/irc.freenode.net/?#pret).
+
+## Credits
+
+Current credit list:
+- Base
+* Lunos - battle strings, save file, item images and palettes
+* Shanty - move animations,
+* mvit - ability pop up and mega evo gfx
+* Avara - item descriptions,
+* Kurausukun - testing, small edits and fixes
+* TheLaw - move animations,
+* BreadCrumbs - code review
+* Tetra - assigning move effects
+* Ultima - new items data
+* Cancer Fairy - coding help, battle strings
+* Syreldar - testing, wrote an explanation post
+* UltimaSoul - moving the repo
+- Pokédex Upgrade
+* TheXaman - code and graphics
+* AsparagusEduardo - BE/PE compatibility, additional mockups and feedback
+- DexNav
+* ghoulslash - DexNav
+* CFRU - dexnav gui source
+* FBI/Blah - for original dexnav code
+- Debug
+* TheXaman
+* Ketsuban
+* Pyredrid
+* AsparagusEduardo
+* Ghoulslash
